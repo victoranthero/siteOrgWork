@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -96,11 +96,9 @@
         <div class="col-sm-6 social_download">
             <div class="download">
                 <h3>Download</h3>
-
                 <a href='https://play.google.com/store/apps/details?id=com.orgwork.renewed'>
                     <img width="150px" alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png' />
                 </a>
-
             </div>
 
             <div class="social">
