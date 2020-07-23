@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- css local -->
     <link rel="stylesheet" type="text/css" href="./css/main.css">
@@ -18,7 +19,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
         <a class="navbar-brand" href="#">
             OrgWork
         </a>
@@ -26,7 +27,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+        <div class="collapse navbar-collapse " id="conteudoNavbarSuportado">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item ">
                     <a class="nav-link" href="#">Inicio<span class="sr-only">(pagina atual)</span></a>
