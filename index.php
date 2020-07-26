@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="./css/css_500.css">
     <link rel="stylesheet" type="text/css" href="./css/css_1150.css"> -->
     <title>OrgWork</title>
+    
 </head>
 
 <body>
@@ -61,7 +62,7 @@
 
         <div class="row">
             <div class="col-sm-4 text-block">
-                <img src="./images/icons/ic_mision.png" alt="">
+                <img src="" alt="">
                 <h3>Missão</h3>
                 <p>
                     Engajar às pessoas em seu foco nos estudos, buscando facilitar seu meio de organização academica
@@ -69,8 +70,8 @@
                     seus sonhos, sem jamais desistirem.
                 </p>
             </div>
-            <div class="col-sm-4 text-block" id="center-card">
-                <img src="./images/icons/ic_vision.png" alt="">
+            <div class="col-sm-4 text-block">
+                <img src="" alt="">
                 <h3>Visão</h3>
                 <p>
                     Ser uma empresa transparente, que tenha total confiança de seus clientes,
@@ -79,7 +80,7 @@
                 </p>
             </div>
             <div class="col-sm-4 text-block">
-                <img src="./images/icons/ic_values.png" alt="">
+                <img src="" alt="">
                 <h3>Valores</h3>
                 <p>
                     Trabalhar com clareza, integridade, responsabilidade, foco, competência e seriedade, sempre com respeito à vida
